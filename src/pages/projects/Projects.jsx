@@ -58,6 +58,14 @@ const Projects = () => {
             icon: "uil-web-grid",
             projects: [
                 {
+                    projectName: "Jumia E-Commerce Website",
+                    githubLink: "https://e-commerce-eight-teal-90.vercel.app/"
+                },
+                {
+                    projectName: "EaziRent House Rental App",
+                    githubLink: "https://eazi-rent-eight.vercel.app/"
+                },
+                {
                     projectName: "Contact Management Website",
                     githubLink: "https://contact-managment-app-using-react.vercel.app/"
                 },
